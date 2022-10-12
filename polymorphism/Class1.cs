@@ -22,7 +22,7 @@ namespace polymorphism
             p1.CalculateSalary();
             Console.WriteLine(p1);
 
-            SalesManager s1 = new SalesManager("Nikhil", 60000, 8976);
+            SalesManager s1 = new SalesManager("Nikhil", 60000, 6543, 9870);
             s1.CalculateSalary();
             Console.WriteLine(s1);
             
